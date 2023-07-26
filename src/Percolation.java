@@ -108,7 +108,7 @@ public class Percolation {
     public void printPercolation(){
         for (int i = 0; i < sites.length; i++) {
             for (int j = 0; j < sites[i].length; j++) {
-                System.out.print(getRepresentation(i,j));
+                System.out.print(getRepresentation(i,j)+ ".");
             }
             System.out.println();
         }

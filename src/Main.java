@@ -44,7 +44,7 @@ public class Main {
         }
 
         float percolateChance = (float) percolationTries / sites;
-        System.out.println("Percolation Chance: " + percolateChance);
+        System.out.println("Percolation threshold : " + percolateChance);
 
     }
 }
