@@ -1,10 +1,18 @@
 # Percolation-Simulator
-
 Based on the Princeton University project.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MateusGurgel/Percolation-Simulator/main/demo/Demo.PNG" />
+</div>
 
 What is Percolation?
 
 Percolation is a concept used in various fields to simulate the movement of substances through porous materials, such as fluids passing through interconnected pores in a material.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MateusGurgel/Percolation-Simulator/main/demo/percolation-100.png" />
+<img src="https://raw.githubusercontent.com/MateusGurgel/Percolation-Simulator/main/demo/percolation-204.png" />
+</div>
 
 About the Model:
 
