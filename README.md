@@ -5,7 +5,9 @@ Based on the Princeton University project.
   <img src="https://raw.githubusercontent.com/MateusGurgel/Percolation-Simulator/main/demo/Demo.PNG" />
 </div>
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 What is Percolation?
 
